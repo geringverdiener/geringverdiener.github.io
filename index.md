@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Geringverdiener
 
-You can use the [editor on GitHub](https://github.com/geringverdiener/geringverdienerclient/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Ein Client,
+### Viele Möglichkeiten!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Ein Hackclient, Viele Möglichkeiten, Geringverdiener Client!**
+**Wir wollen einen Tollen gehypten Client haben!**
+**Außerdem ist er auch noch Kostenlos!**
+**_`Joint jetzt der Geringverdiener Community!`_**
+**[Joinen und Herunterladen](http://157.90.185.82/installer/installer-geringverdiener.jar)**
 
-### Markdown
+## FAQ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 1. Wie Installiere ich Geringverdiener?
+**Als erstes brauchst du [Java](https://www.java.com/de/download/). Dann gehst du in deinen Ordner wo du den Installer gedownloadet hast, und öffnest ihn. Yeah! Du hast Geringverdiener nun _ERFOLGREICH_ installiert! Du kannst ihm von dem [Minecraft Launcher](https://minecraft.net/) starten!
 
-```markdown
-Syntax highlighted code block
+### 2. Mein Client wird nicht im Minecraft Launcher angezeigt?
+**Einfach neu installieren, bitte beachte das du vorher noch den [Minecraft Launcher](https://minecraft.net/) schließen musst! Sollte es immernoch nicht im [Minecraft Launcher](https://minecraft.net/) angezeigt werden dann melde dich unter folgender E-Mail -> **_tarellmail87@gmail.com_** **oder auf Discord -> SADLIFEYT#0760
 
-# Header 1
-## Header 2
-### Header 3
+### 3. Ist Geringverdiener wirklich Kostenlos oder treten irgendwann noch Kosten auf?
+**Nein, Geringverdiener ist komplett Kostenlos (Zur Zeit). Das heißt es treten _KEINE_ Kosten auf!
 
-- Bulleted
-- List
+## Changelog
 
-1. Numbered
-2. List
+###2.2.1
+**Erstes mal in der Öffentlichkeit frei zum Download.**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geringverdiener/geringverdienerclient/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
