@@ -22,7 +22,7 @@
 
 ## Changelog
 
-###2.2.1
-** Erstes mal in der Öffentlichkeit frei zum Download.**
+### 2.2.1
+**Erstes mal in der Öffentlichkeit frei zum Download.**
 
 
